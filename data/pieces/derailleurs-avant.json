@@ -1,0 +1,52 @@
+[
+  {
+    "id": "shimano-fd-r7000-f",
+    "categorie": "derailleur_avant",
+    "marque": "Shimano",
+    "reference": "FD-R7000-F",
+    "nom": "105 FD-R7000 brasé 11v",
+    "gamme": "105",
+    "sources": ["https://steedcycles.com/products/shimano-fd-r7000-105-11-speed-front-derailleur"],
+    "statutDonnees": "a_verifier",
+    "vitesses": 11,
+    "commande": { "type": "mecanique" },
+    "fixation": { "type": "brasee" },
+    "grandPlateauMin": 46,
+    "grandPlateauMax": 53,
+    "ecartPlateauxMax": 16,
+    "ligneChaineMm": 43.5
+  },
+  {
+    "id": "shimano-fd-r8000-f",
+    "categorie": "derailleur_avant",
+    "marque": "Shimano",
+    "reference": "FD-R8000-F",
+    "nom": "Ultegra FD-R8000 brasé 11v",
+    "gamme": "Ultegra",
+    "sources": ["https://bike.shimano.com/en-AU/product/component/ultegra-r8000/FD-R8000-F.html"],
+    "statutDonnees": "a_verifier",
+    "vitesses": 11,
+    "commande": { "type": "mecanique" },
+    "fixation": { "type": "brasee" },
+    "grandPlateauMin": 46,
+    "grandPlateauMax": 53,
+    "ecartPlateauxMax": 16,
+    "ligneChaineMm": 43.5
+  },
+  {
+    "id": "shimano-fd-r8150",
+    "categorie": "derailleur_avant",
+    "marque": "Shimano",
+    "reference": "FD-R8150",
+    "nom": "Ultegra Di2 FD-R8150 brasé 12v",
+    "gamme": "Ultegra",
+    "sources": ["https://bike.shimano.com/en-NA/products/components/pdp.P-FD-R8150.html"],
+    "statutDonnees": "a_verifier",
+    "vitesses": 12,
+    "commande": { "type": "electronique", "protocole": "di2_12v" },
+    "fixation": { "type": "brasee" },
+    "grandPlateauMin": 46,
+    "grandPlateauMax": 52,
+    "ecartPlateauxMax": 16
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "giant-tcr-advanced-pro-disc-2020",
+    "categorie": "cadre",
+    "marque": "Giant",
+    "reference": "TCR Advanced Pro Disc (2020)",
+    "nom": "Cadre + fourche Giant TCR Advanced Pro Disc 2020",
+    "sources": [
+      "https://classifieds.escapecollective.com/listing/2020-giant-tcr-advanced-pro-1-disc",
+      "https://viladomat.com/en/road-bikes/35076-640566-tcr-advanced-pro-1-disc.html"
+    ],
+    "statutDonnees": "a_verifier",
+    "boitier": "bb86",
+    "fixationDerailleurAvant": { "type": "brasee" },
+    "patteDerailleur": "classique",
+    "passagesCables": ["interne_meca", "interne_di2"],
+    "tigeSelleExigee": { "forme": "proprietaire", "reference": "Giant Variant" },
+    "logementsBatterieDi2": ["tige_selle"],
+    "axeAvant": { "type": "traversant", "diametreMm": 12, "largeurMm": 100 },
+    "axeArriere": { "type": "traversant", "diametreMm": 12, "largeurMm": 142 },
+    "freins": "disque",
+    "montageEtriers": "flat_mount",
+    "disqueMaxMm": { "avant": 160, "arriere": 140 },
+    "passagePneuMaxMm": 32,
+    "pivot": { "haut": "1-1/4", "bas": "1-1/2" },
+    "routageIntegre": "non"
+  },
+  {
+    "id": "test-cadre-alu-bsa",
+    "categorie": "cadre",
+    "marque": "Fictif",
+    "reference": "TEST-ALU-1",
+    "nom": "Cadre alu de test (fictif) : BSA, câbles externes, dérailleur avant à collier",
+    "sources": [],
+    "statutDonnees": "valide",
+    "boitier": "bsa",
+    "fixationDerailleurAvant": { "type": "collier", "diametreMm": 31.8 },
+    "patteDerailleur": "classique",
+    "passagesCables": ["externe"],
+    "tigeSelleExigee": { "forme": "ronde", "diametreMm": 27.2 },
+    "logementsBatterieDi2": ["tige_selle"],
+    "axeAvant": { "type": "traversant", "diametreMm": 12, "largeurMm": 100 },
+    "axeArriere": { "type": "traversant", "diametreMm": 12, "largeurMm": 142 },
+    "freins": "disque",
+    "montageEtriers": "flat_mount",
+    "disqueMaxMm": { "avant": 160, "arriere": 160 },
+    "passagePneuMaxMm": 30,
+    "pivot": { "haut": "1-1/8", "bas": "1-1/2" },
+    "routageIntegre": "non"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "giant-slr-1-42-disc",
+    "categorie": "roues",
+    "marque": "Giant",
+    "reference": "SLR 1 42 Disc",
+    "nom": "Roues Giant SLR 1 42 Disc",
+    "sources": [
+      "https://westbrookcycles.co.uk/giant_slr1_24h_centrelock_disc_brake_rear_wheel_with_42mm_hookless_carbon_rim_2021-38618"
+    ],
+    "statutDonnees": "a_verifier",
+    "axeAvant": { "type": "traversant", "diametreMm": 12, "largeurMm": 100 },
+    "axeArriere": { "type": "traversant", "diametreMm": 12, "largeurMm": 142 },
+    "corpsRoueLibre": "hg_11v_route",
+    "corpsDisponibles": ["hg_11v_route", "xdr"],
+    "frein": "disque",
+    "fixationDisque": "centerlock",
+    "largeurInterneMm": 19.4,
+    "montages": ["tubeless", "chambre"],
+    "diametre": "700c"
+  },
+  {
+    "id": "zipp-303-s-xdr",
+    "categorie": "roues",
+    "marque": "Zipp",
+    "reference": "303 S Disc",
+    "nom": "Roues Zipp 303 S, corps SRAM XDR",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "axeAvant": { "type": "traversant", "diametreMm": 12, "largeurMm": 100 },
+    "axeArriere": { "type": "traversant", "diametreMm": 12, "largeurMm": 142 },
+    "corpsRoueLibre": "xdr",
+    "corpsDisponibles": ["xdr", "hg_11v_route", "n3w"],
+    "frein": "disque",
+    "fixationDisque": "centerlock",
+    "largeurInterneMm": 23,
+    "montages": ["tubeless"],
+    "diametre": "700c"
+  }
+]

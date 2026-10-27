@@ -1,0 +1,38 @@
+[
+  {
+    "id": "shimano-br-r7070",
+    "categorie": "etriers",
+    "marque": "Shimano",
+    "reference": "BR-R7070",
+    "nom": "Étriers 105 flat mount",
+    "gamme": "105",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "montage": "flat_mount",
+    "fluide": "mineral"
+  },
+  {
+    "id": "shimano-br-r8070",
+    "categorie": "etriers",
+    "marque": "Shimano",
+    "reference": "BR-R8070",
+    "nom": "Étriers Ultegra flat mount",
+    "gamme": "Ultegra",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "montage": "flat_mount",
+    "fluide": "mineral"
+  },
+  {
+    "id": "shimano-br-r8170",
+    "categorie": "etriers",
+    "marque": "Shimano",
+    "reference": "BR-R8170",
+    "nom": "Étriers Ultegra 12v flat mount",
+    "gamme": "Ultegra",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "montage": "flat_mount",
+    "fluide": "mineral"
+  }
+]

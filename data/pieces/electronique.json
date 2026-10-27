@@ -1,0 +1,13 @@
+[
+  {
+    "id": "shimano-di2-12v-bt-dn300",
+    "categorie": "electronique",
+    "marque": "Shimano",
+    "reference": "BT-DN300 + EW-SD300",
+    "nom": "Kit Di2 12v : batterie interne BT-DN300 + câbles EW-SD300",
+    "sources": ["https://bike.shimano.com/en-EU/product/component/dura-ace-r9200/BT-DN300.html"],
+    "statutDonnees": "a_verifier",
+    "protocole": "di2_12v",
+    "emplacementsBatterie": ["tige_selle", "cadre"]
+  }
+]

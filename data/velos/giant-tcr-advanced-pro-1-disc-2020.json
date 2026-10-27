@@ -1,0 +1,24 @@
+{
+  "id": "giant-tcr-advanced-pro-1-disc-2020",
+  "marque": "Giant",
+  "annee": 2020,
+  "modele": "TCR Advanced Pro 1 Disc",
+  "photos": [],
+  "composants": {
+    "cadre": "giant-tcr-advanced-pro-disc-2020",
+    "roues": "giant-slr-1-42-disc",
+    "pedalier": "shimano-fc-r8000-52-36",
+    "boitier": "shimano-sm-bb72-41b",
+    "cassette": "shimano-cs-r8000-11-30",
+    "chaine": "shimano-cn-hg701-11",
+    "derailleur_arriere": "shimano-rd-r8000-ss",
+    "derailleur_avant": "shimano-fd-r8000-f",
+    "manettes": "shimano-st-r8020",
+    "etriers": "shimano-br-r8070"
+  },
+  "sources": [
+    "https://classifieds.escapecollective.com/listing/2020-giant-tcr-advanced-pro-1-disc",
+    "https://viladomat.com/en/road-bikes/35076-640566-tcr-advanced-pro-1-disc.html"
+  ],
+  "statutDonnees": "a_verifier"
+}

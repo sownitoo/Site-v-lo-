@@ -1,0 +1,37 @@
+[
+  {
+    "id": "shimano-cn-hg601-11",
+    "categorie": "chaine",
+    "marque": "Shimano",
+    "reference": "CN-HG601-11",
+    "nom": "Chaîne 105 11v",
+    "gamme": "105",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "vitesses": 11,
+    "standard": "shimano_hg"
+  },
+  {
+    "id": "shimano-cn-hg701-11",
+    "categorie": "chaine",
+    "marque": "Shimano",
+    "reference": "CN-HG701-11",
+    "nom": "Chaîne Ultegra 11v",
+    "gamme": "Ultegra",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "vitesses": 11,
+    "standard": "shimano_hg"
+  },
+  {
+    "id": "shimano-cn-m8100",
+    "categorie": "chaine",
+    "marque": "Shimano",
+    "reference": "CN-M8100",
+    "nom": "Chaîne HG 12v",
+    "sources": ["https://www.bike-components.de/en/Shimano/Ultegra-CS-R8100-12-12-Speed-Cassette-p84396/"],
+    "statutDonnees": "a_verifier",
+    "vitesses": 12,
+    "standard": "shimano_hg"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "shimano-cs-r7000-11-30",
+    "categorie": "cassette",
+    "marque": "Shimano",
+    "reference": "CS-R7000",
+    "nom": "105 CS-R7000 11-30 11v",
+    "gamme": "105",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "vitesses": 11,
+    "corpsCompatibles": ["hg_11v_route"],
+    "chaineExigee": "shimano_hg",
+    "pignonMin": 11,
+    "pignonMax": 30
+  },
+  {
+    "id": "shimano-cs-r8000-11-30",
+    "categorie": "cassette",
+    "marque": "Shimano",
+    "reference": "CS-R8000",
+    "nom": "Ultegra CS-R8000 11-30 11v",
+    "gamme": "Ultegra",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "vitesses": 11,
+    "corpsCompatibles": ["hg_11v_route"],
+    "chaineExigee": "shimano_hg",
+    "pignonMin": 11,
+    "pignonMax": 30
+  },
+  {
+    "id": "shimano-cs-r8100-11-30",
+    "categorie": "cassette",
+    "marque": "Shimano",
+    "reference": "CS-R8100",
+    "nom": "Ultegra CS-R8100 11-30 12v",
+    "gamme": "Ultegra",
+    "sources": ["https://www.bike-components.de/en/Shimano/Ultegra-CS-R8100-12-12-Speed-Cassette-p84396/"],
+    "statutDonnees": "a_verifier",
+    "vitesses": 12,
+    "corpsCompatibles": ["hg_11v_route", "hg_l2_12v_route"],
+    "chaineExigee": "shimano_hg",
+    "pignonMin": 11,
+    "pignonMax": 30
+  },
+  {
+    "id": "shimano-cs-r8100-11-34",
+    "categorie": "cassette",
+    "marque": "Shimano",
+    "reference": "CS-R8100",
+    "nom": "Ultegra CS-R8100 11-34 12v",
+    "gamme": "Ultegra",
+    "sources": ["https://www.bike-components.de/en/Shimano/Ultegra-CS-R8100-12-12-Speed-Cassette-p84396/"],
+    "statutDonnees": "a_verifier",
+    "vitesses": 12,
+    "corpsCompatibles": ["hg_11v_route", "hg_l2_12v_route"],
+    "chaineExigee": "shimano_hg",
+    "pignonMin": 11,
+    "pignonMax": 34
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "shimano-sm-bb72-41b",
+    "categorie": "boitier",
+    "marque": "Shimano",
+    "reference": "SM-BB72-41B",
+    "nom": "Boîtier press fit 86,5 mm pour axe 24 mm",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "standardExige": "bb86",
+    "diametreAxeAccepteMm": 24
+  },
+  {
+    "id": "shimano-sm-bbr60",
+    "categorie": "boitier",
+    "marque": "Shimano",
+    "reference": "SM-BBR60",
+    "nom": "Boîtier fileté BSA pour axe 24 mm",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "standardExige": "bsa",
+    "diametreAxeAccepteMm": 24
+  }
+]

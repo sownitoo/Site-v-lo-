@@ -1,0 +1,44 @@
+[
+  {
+    "id": "shimano-st-r7020",
+    "categorie": "manettes",
+    "marque": "Shimano",
+    "reference": "ST-R7020",
+    "nom": "105 ST-R7020 mécanique, frein disque hydraulique 11v",
+    "gamme": "105",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "vitesses": 11,
+    "commande": { "type": "mecanique" },
+    "frein": "disque_hydro",
+    "fluide": "mineral"
+  },
+  {
+    "id": "shimano-st-r8020",
+    "categorie": "manettes",
+    "marque": "Shimano",
+    "reference": "ST-R8020",
+    "nom": "Ultegra ST-R8020 mécanique, frein disque hydraulique 11v",
+    "gamme": "Ultegra",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "vitesses": 11,
+    "commande": { "type": "mecanique" },
+    "frein": "disque_hydro",
+    "fluide": "mineral"
+  },
+  {
+    "id": "shimano-st-r8170",
+    "categorie": "manettes",
+    "marque": "Shimano",
+    "reference": "ST-R8170",
+    "nom": "Ultegra Di2 ST-R8170 sans fil, frein disque hydraulique 12v",
+    "gamme": "Ultegra",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "vitesses": 12,
+    "commande": { "type": "electronique", "protocole": "di2_12v" },
+    "frein": "disque_hydro",
+    "fluide": "mineral"
+  }
+]

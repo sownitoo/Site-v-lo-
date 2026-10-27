@@ -1,0 +1,56 @@
+[
+  {
+    "id": "shimano-fc-r7000-50-34",
+    "categorie": "pedalier",
+    "marque": "Shimano",
+    "reference": "FC-R7000",
+    "nom": "105 FC-R7000 50-34 11v",
+    "gamme": "105",
+    "sources": [],
+    "statutDonnees": "a_verifier",
+    "vitesses": 11,
+    "plateaux": [50, 34],
+    "diametreAxeMm": 24
+  },
+  {
+    "id": "shimano-fc-r8000-52-36",
+    "categorie": "pedalier",
+    "marque": "Shimano",
+    "reference": "FC-R8000",
+    "nom": "Ultegra FC-R8000 52-36 11v",
+    "gamme": "Ultegra",
+    "sources": ["https://excelsports.com/shimano-ultegra-fc-r8000-crankset"],
+    "statutDonnees": "a_verifier",
+    "vitesses": 11,
+    "plateaux": [52, 36],
+    "diametreAxeMm": 24
+  },
+  {
+    "id": "shimano-fc-r8100-50-34",
+    "categorie": "pedalier",
+    "marque": "Shimano",
+    "reference": "FC-R8100",
+    "nom": "Ultegra FC-R8100 50-34 12v",
+    "gamme": "Ultegra",
+    "sources": ["https://bike.shimano.com/en-NZ/products/components/pdp.P-FC-R8100.html"],
+    "statutDonnees": "a_verifier",
+    "vitesses": 12,
+    "plateaux": [50, 34],
+    "diametreAxeMm": 24,
+    "ligneChaineMm": 44.5
+  },
+  {
+    "id": "shimano-fc-r8100-52-36",
+    "categorie": "pedalier",
+    "marque": "Shimano",
+    "reference": "FC-R8100",
+    "nom": "Ultegra FC-R8100 52-36 12v",
+    "gamme": "Ultegra",
+    "sources": ["https://bike.shimano.com/en-NZ/products/components/pdp.P-FC-R8100.html"],
+    "statutDonnees": "a_verifier",
+    "vitesses": 12,
+    "plateaux": [52, 36],
+    "diametreAxeMm": 24,
+    "ligneChaineMm": 44.5
+  }
+]
